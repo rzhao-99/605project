@@ -6,3 +6,4 @@ Use the command  `git clone https://github.com/rzhao-99/605project` to clone the
 
 - The folder [Code](https://github.com/rzhao-99/605project/tree/main/Code) contains the code used to run CHTC jobs and downstream analysis.
 - [Data](https://github.com/rzhao-99/605project/tree/main/Data) contains data to train models and output results. Use `np.load('filename.npy',allow_pickle=True)` to read the data into python environment.
+- Please read the report.html for our exploration and analysis.
